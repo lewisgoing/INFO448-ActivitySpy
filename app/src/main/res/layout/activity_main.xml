@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-s
+
     <TextView
         android:id="@+id/quoteText"
         android:layout_width="wrap_content"
